@@ -110,7 +110,7 @@ const products = [
 
 - (For an easier way you can save the index given by the user or the movie object chosen by the user.)
 
-[Solution]()
+[Solution](Exercises/Cinema/solution1.js)
 
 --- 
 
@@ -127,7 +127,7 @@ The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of din
 
 - Make sure you use only 3 `console.log`'s
 
-[Solution]()
+[Solution](Exercises/Cinema/solution2.js)
 
 ---
 
@@ -136,7 +136,7 @@ The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of din
 - Ask the user if they want to select an other movie with Y/N
 - If the user selects Y, repeat the previous code to ask for a movie
 
-[Solution]()
+[Solution](Exercises/Cinema/solution3.js)
 
 ---
 
@@ -147,7 +147,7 @@ The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of din
 - Show a message to the user if the user enters more kids than the total number of tickets
 - Ask the question of the amount of kids again until the users enters a valid amount
 
-[Solution]()
+[Solution](Exercises/Cinema/solution4.js)
 
 ---
 
@@ -165,7 +165,7 @@ names = [
 ];
 ```
 
-[Solution]()
+[Solution](Exercises/Cinema/solution5.js)
 
 ---
 
@@ -182,7 +182,7 @@ visitors = [
 ];
 ```
 
-[Solution]()
+[Solution](Exercises/Cinema/solution6.js)
 
 ---
 
@@ -191,4 +191,4 @@ visitors = [
 - Calculate the total price based on the list `visitors`
 - Show the total price to the user
 
-[Solution]()
+[Solution](Exercises/Cinema/solution7.js)
