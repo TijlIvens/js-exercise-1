@@ -103,7 +103,7 @@ const products = [
 
 - Show all movie titles as a list to the user
 - Ask the user what move they want to watch. The user has to enter the number corresponding to the movie in the list.
-- Save the id of the user in a variable
+- Save the id of the movie in a variable
 - Create a function `getMovieById` that requires an id as input and returns the object of the corresponding movie.  
    
 -
